@@ -1,7 +1,8 @@
 **Expense Tracker with Visualization**
 
 📌 **Overview**
-  The Personal Expense Tracker is a Python-based application that allows users to record daily expenses, categorize them, and compare total spending against a set budget. It also includes an optional bar chart visualization to help users better understand their spending habits.
+
+The Personal Expense Tracker is a Python-based application that allows users to record daily expenses, categorize them, and compare total spending against a set budget. It also includes an optional bar chart visualization to help users better understand their spending habits.
 
 🎯 **Features**
   * User-friendly interface for adding expenses and setting a daily budget.
