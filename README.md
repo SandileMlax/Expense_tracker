@@ -1,4 +1,4 @@
-**Expense Tracker with Visualization**
+**Expense Tracker**
 
 📌 **Overview**
 
