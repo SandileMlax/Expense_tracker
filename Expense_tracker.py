@@ -1,7 +1,7 @@
-import datetime  # For getting today's date
-import matplotlib.pyplot as plt  # For optional visualization
+import datetime  
+import matplotlib.pyplot as plt  
 
-# Global dictionary to store expenses (category -> total amount)
+# Global dictionary to store expenses (category - total amount)
 expenses = {}
 
 # Function to add an expense
@@ -48,7 +48,7 @@ def show_summary(budget):
     else:
         print(f"You are UNDER budget by R{budget - total_spent:.2f}!!!")
 
-# Optional: Create a bar chart visualization
+# Create a bar chart visualization
 def create_chart():
     """Generate a bar chart of expenses."""
     if not expenses:
@@ -84,3 +84,4 @@ if see_chart == 'yes':
     create_chart()
 
 print("\nThank you for using the Expense Tracker! Goodbye!")
+
