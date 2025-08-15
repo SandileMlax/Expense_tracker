@@ -18,3 +18,13 @@
   * Functions for modular code
   * Dictionaries for storing category-based expenses
   * Libraries (datetime, matplotlib)
+
+🛠️ **Technologies Used**
+  * Python 
+  * Matplotlib (for visualization)
+  * Datetime (for date handling)
+
+💡 **Future Improvements**
+  * Save expenses to a CSV file for future sessions.
+  * Add monthly and yearly budget tracking.
+  * Include percentage breakdown of spending categories.
